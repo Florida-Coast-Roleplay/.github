@@ -37,4 +37,4 @@ For any inquiries or further information, feel free to reach out to us via [Disc
 
 ---
 
-*Let’s create amazing roleplaying experiences together!*
+*Let’s create amazing roleplaying experiences together!* ©2024-2025 Florida Coast Roleplay
