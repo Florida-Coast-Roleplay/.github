@@ -15,6 +15,7 @@ Florida Coast Roleplay aims to centralize development and enhance collaboration 
 ## Join Our Community
 
 We are always on the lookout for new members to join our growing community! Whether you’re an experienced developer, a creative storyteller, or someone who simply loves to roleplay, there’s a place for you here. Together, we can build unforgettable stories and experiences in the world of FiveM.
+[Discord](https://www.fcrp.xyz/join)
 
 ### How to Get Involved
 
@@ -30,7 +31,8 @@ Thank you for visiting our GitHub organization! We’re excited to have you here
 
 ### Contact Us
 
-For any inquiries or further information, feel free to reach out to us via Discord or email.
+For any inquiries or further information, feel free to reach out to us via [Discord](https://www.fcrp.xyz/join) or [email.](mailto:support@fcrp.xyz)
+
 
 ---
 
