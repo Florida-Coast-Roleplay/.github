@@ -15,13 +15,14 @@ Florida Coast Roleplay aims to centralize development and enhance collaboration 
 ## Join Our Community
 
 We are always on the lookout for new members to join our growing community! Whether you’re an experienced developer, a creative storyteller, or someone who simply loves to roleplay, there’s a place for you here. Together, we can build unforgettable stories and experiences in the world of FiveM.
+<br>
 [Discord](https://www.fcrp.xyz/join)
 
 ### How to Get Involved
 
 - **Explore our repositories:** Check out our ongoing projects and see how you can contribute.
 - **Report Issues:** If you encounter any problems or have suggestions for improvements, please visit our [Bug Reports Repository](https://github.com/Florida-Coast-Roleplay/Bug-Reports) to create an issue. Your feedback is invaluable!
-- **Connect with us:** Join our Discord server (link to Discord) to meet other members, participate in discussions, and stay updated on community events and announcements.
+- **Connect with us:** Join our [Discord server](https://www.fcrp.xyz/join) to meet other members, participate in discussions, and stay updated on community events and announcements.
 
 ## Code of Conduct
 
