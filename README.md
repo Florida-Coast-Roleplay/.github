@@ -19,7 +19,7 @@ We are always on the lookout for new members to join our growing community! Whet
 ### How to Get Involved
 
 - **Explore our repositories:** Check out our ongoing projects and see how you can contribute.
-- **Report Issues:** If you encounter any problems or have suggestions for improvements, please visit our [Bug Reports Repository]([link_to_bug_reports_repo](https://github.com/Florida-Coast-Roleplay/Bug-Reports)) to create an issue. Your feedback is invaluable!
+- **Report Issues:** If you encounter any problems or have suggestions for improvements, please visit our [Bug Reports Repository](https://github.com/Florida-Coast-Roleplay/Bug-Reports) to create an issue. Your feedback is invaluable!
 - **Connect with us:** Join our Discord server (link to Discord) to meet other members, participate in discussions, and stay updated on community events and announcements.
 
 ## Code of Conduct
