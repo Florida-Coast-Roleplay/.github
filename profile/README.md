@@ -1,7 +1,7 @@
 # Florida Coast Roleplay
 
 <p align="center">
-  <img src="https://www.fcrp.xyz/dir/common/images/logo2.png" alt="Florida Coast Roleplay Logo" width="300"> <!-- Adjust width as needed -->
+  <img src="https://i.ibb.co/zHQsNJsz/fcrp.png" alt="Florida Coast Roleplay Logo" width="300"> <!-- Adjust width as needed -->
 </p>
 
 <p align="center">
